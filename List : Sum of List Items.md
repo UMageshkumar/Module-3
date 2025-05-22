@@ -9,9 +9,16 @@ To write a Python program that calculates the **sum of all elements** in a list.
 3. Print the result.
 
 ## 🧾 Program
+```
+l1=[12,15,14,18,16,13]
+a=sum(l1)
+print(a)
 
-Add code here
+```
 
 ## Output
+![image](https://github.com/user-attachments/assets/0e842105-02ff-4897-a37f-ac0f0d9ace12)
+
 
 ## Result
+Successfully implemented a Python program that calculates the **sum of all elements** in a list.
